@@ -1,8 +1,8 @@
-# NotiFly Releases 🚀
+# NotiFly Releases
 
-Official public download repository for the NotiFly mobile application.
+Official public download repository for the NotiFly mobile app.
 
-## 📱 Direct Downloads
+## Direct Downloads
 
 Click the button below to download the latest compiled APK directly to your Android device:
 
@@ -10,4 +10,4 @@ Click the button below to download the latest compiled APK directly to your Andr
 
 ---
 
-*🔒 For your security, always make sure you are downloading releases exclusively from this official repository.*
+*For your security, always make sure you are downloading releases exclusively from this official repository.*
